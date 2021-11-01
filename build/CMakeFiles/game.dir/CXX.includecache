@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/welldone/pets/sfml/src/main.cpp
+SFML/Graphics.hpp
+/home/welldone/pets/sfml/src/SFML/Graphics.hpp
+string
+-
+

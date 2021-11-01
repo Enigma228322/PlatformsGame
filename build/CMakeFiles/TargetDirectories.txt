@@ -1,0 +1,5 @@
+/home/welldone/pets/sfml/build/CMakeFiles/package_source.dir
+/home/welldone/pets/sfml/build/CMakeFiles/rebuild_cache.dir
+/home/welldone/pets/sfml/build/CMakeFiles/package.dir
+/home/welldone/pets/sfml/build/CMakeFiles/edit_cache.dir
+/home/welldone/pets/sfml/build/CMakeFiles/game.dir
